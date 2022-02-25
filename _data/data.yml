@@ -15,29 +15,28 @@ sidebar:
     email: p19pavl@ionio.gr
     phone: 69********
     citizenship: Greek
-    website: https://lesxi-logotexnias.blogspot.com/p/home_12.html 
+    website: https://aimiliospavlidis2001.github.io/online-cv/
     github: AimiliosPavlidis2001
-    goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
-
+<!-- https://lesxi-logotexnias.blogspot.com/p/home_12.html -->
     languages:
-      - idiom: English
+      - idiom: Greek
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: C2 Michigan
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: German
+        level: B2 ÜSD
 
     interests:
-      - item: Climbing
+      - item: Reading
         link:
 
-      - item: Snowboarding
+      - item: Volleyball
         link:
 
-      - item: Cooking
+      - item: Taekwon-do ITF (Black Belt)
         link:
 
 career-profile:
