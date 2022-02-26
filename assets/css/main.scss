@@ -6,3 +6,5 @@
 
 @import "skins/{{ site.theme_skin | default: 'orange' }}"; // skin
 @import "default"; // main partials
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@100&display=swap')
+  
