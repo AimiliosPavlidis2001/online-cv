@@ -29,6 +29,9 @@ sidebar:
         level: B2 ÜSD
 
     interests:
+      - item: Chess
+        link:
+        
       - item: Reading
         link:
 
@@ -92,9 +95,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      As a university student without time or a certification is pretty hard to land a job. My main goal is to improve my skills and build the foundation for the future. 
     assignments:
       - title: Computer Science Quiz Website
         link: "https://quiz-pliroforikis.netlify.app/index.html"
