@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Aimilios Pavlidis
-    tagline: Junior Front-End Developer
+    tagline: Junior UI/UX Designer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -42,12 +42,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.https://lesxi-logotexnias.blogspot.com/p/home_12.html
+      I am currently an undergraduate student in the field of Informatics based in Greece, Corfu. 
+      Some of my positive personality traits is my mood for contribution and my organization skills.
+      The Computer Science fields that pick my interest are anything that envolves psychology, philosophy and design.
+      https://lesxi-logotexnias.blogspot.com/p/home_12.html
 education:
     - degree: MSc in Computer Science
       university: University of London
@@ -166,7 +164,7 @@ skills:
         level: 70%
 
       - name: Networking
-        level: 55%
+        level: 50%
 
       - name: C
         level: 60%
@@ -175,7 +173,7 @@ skills:
         level: 75%
 
       - name: SQL
-        level: 55%
+        level: 50%
 
 
 footer: >
