@@ -44,7 +44,6 @@ career-profile:
       I am currently an undergraduate student in the field of Informatics based in Greece, Corfu. 
       Some of my positive personality traits is my mood for contribution and my organization skills.
       The Computer Science fields that pick my interest are anything that envolves psychology, philosophy and design.
-      https://lesxi-logotexnias.blogspot.com/p/home_12.html
 education:
     - degree: BSc in Informatics
       university: Ionian University
@@ -99,10 +98,10 @@ projects:
     assignments:
       - title: Computer Science Quiz Website
         link: "https://quiz-pliroforikis.netlify.app/index.html"
-        tagline: "This website was an academic project for the subject Multimedia with the help of my friend and colleague Thomas Pasxalis. The code and all the required files are uploaded in a repository on my github account"
+        tagline: "This website was an academic project for the subject Multimedia with the help of my friend and colleague Thomas Paschalis. The code and all the required files are uploaded in a repository on my github account"
 
-      - title: DevStudio
-        link: "#"
+      - title: Literature Club Website
+        link: "https://lesxi-logotexnias.blogspot.com/p/home_12.html"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: Tempo
