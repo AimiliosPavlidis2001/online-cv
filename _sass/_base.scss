@@ -56,7 +56,7 @@ p {
     //background: darken($theme-color, 10%);
     background: rgba(0, 0, 0, 0.2);
     text-align: center;
-    color: #000000;
+    color: #fff;
   }
   .name {
     font-size: 32px;
@@ -167,7 +167,7 @@ p {
     text-transform: uppercase;
     font-size: 20px;
     font-weight: 500;
-    color: darken($theme-color, 15%);
+    color: #000000;
     position: relative;
     margin-top: 0;
     margin-bottom: 20px;
