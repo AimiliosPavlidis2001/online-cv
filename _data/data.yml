@@ -98,8 +98,8 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Computer Science Quiz Website
-        link: "#https://quiz-pliroforikis.netlify.app/index.html"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: "https://quiz-pliroforikis.netlify.app/index.html"
+        tagline: "This website was an academic project for the subject Multimedia with the help of my friend and colleague [Thomas Pasxalis](https://github.com/p19pasc)"
 
       - title: DevStudio
         link: "#"
